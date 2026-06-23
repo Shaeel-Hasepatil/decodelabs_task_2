@@ -103,11 +103,16 @@ The optimal K is then used to train the final KNN classifier.
 ### K vs Accuracy Plot
 
 Displays model performance across different K values to help identify the optimal number of neighbors.
+<p align="center">
+  <img src="screenshots/k_vs_accuracy.png" width="45%">
+</p>
 
 ### Confusion Matrix
 
 Visualizes prediction performance across all flower species using a heatmap.
-
+<p align="center">
+  <img src="screenshots/confusion_matrix.png" width="45%">
+</p>
 ---
 
 ## 📋 Evaluation Metrics
